@@ -1,0 +1,2 @@
+this is a text file in which i want to learn python file I/O
+hello python lover
